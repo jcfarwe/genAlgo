@@ -4,4 +4,4 @@ Contents:
 
 How to run:
 
-'geneticAlgorithm.py'
+'landerBreeder.py'
