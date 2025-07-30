@@ -1,3 +1,7 @@
+# Translation of
+# <http://www.cs.brandeis.edu/~storer/LunarLander/LunarLander/LunarLanderListing.jpg>
+# by Jim Storer from FOCAL to Python.
+
 from math import sqrt
 
 def setup():
